@@ -1,0 +1,11 @@
+/*
+
+1- O array guarda os 5 adversários e seus HP
+2- O for passa pelas cinco fases (cada inimigo)
+3- O while controla a batalha enquanto jogador e inimigo estiverem vivos enquanto a vida do jogador for >0 e a vida do inimigo for >0, o jogo continua executando a batalha
+4- O switch determina o ataque escolhido.
+5- O if / else if / else apresenta a situação do inimigo conforme o HP
+6- O 'do while' permite iniciar uma nova partida, fazendo um loop que repete o jogo se o jogador escolher a opção de jogar novamente
+7- O Convert é usado para transformar a resposta final em número (1- sim/ 2- nao)
+
+*/
